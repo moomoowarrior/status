@@ -1,0 +1,5 @@
+{
+		sg: { name: "Singapore", ws: "ws://localhost:1234", url: "http://localhost:1234", hex: "#6fc94e" },
+		us: { name: "USA (Iowa)", ws: "ws://localhost:1234", url: "http://localhost:1234", hex: "#3693df" },
+		ie: { name: "Ireland", ws: "ws://localhost:1234", url: "http://localhost:1234", hex: "#e74c3c" }
+}
